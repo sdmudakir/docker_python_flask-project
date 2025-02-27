@@ -19,7 +19,7 @@ The application will be accessible at http:127.0.0.1:5000 or if you are using bo
 FROM python:3.6
 
 # Set the maintainer label
-MAINTAINER veera "veera.narni232@gmail.com"
+MAINTAINER veera "syed.mudakir@gmail.com"
 
 # Copy the current directory contents into the /app directory in the container
 COPY . /app
